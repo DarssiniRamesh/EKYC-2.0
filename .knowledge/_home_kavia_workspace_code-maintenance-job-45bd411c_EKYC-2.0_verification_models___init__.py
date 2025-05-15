@@ -1,0 +1,25 @@
+{
+  "is_source_file": true,
+  "file_id": 16,
+  "git_revision": "2e657f78e47058ae0d9da3cfbc2916dd56d1c4b5",
+  "state": 2,
+  "description": "",
+  "external_files": [],
+  "external_methods": [],
+  "published": [],
+  "classes": [],
+  "methods": [],
+  "calls": [],
+  "search-terms": [],
+  "ctags": [],
+  "filename": "/home/kavia/workspace/code-maintenance-job-45bd411c/EKYC-2.0/verification_models/__init__.py",
+  "hash": null,
+  "format-version": 4,
+  "code-base-name": "https://github.com/DarssiniRamesh/EKYC-2.0.git:main",
+  "knowledge_revision": 46,
+  "revision_history": [
+    {
+      "46": "2e657f78e47058ae0d9da3cfbc2916dd56d1c4b5"
+    }
+  ]
+}

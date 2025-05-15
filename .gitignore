@@ -5,3 +5,4 @@ weights/
 images/
 landmarks/
 *.ipynb
+logs/
